@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolist11-react-router-dom/static/css/main.f91712b2.css",
+    "main.js": "/todolist11-react-router-dom/static/js/main.bd418a08.js",
+    "index.html": "/todolist11-react-router-dom/index.html",
+    "main.f91712b2.css.map": "/todolist11-react-router-dom/static/css/main.f91712b2.css.map",
+    "main.bd418a08.js.map": "/todolist11-react-router-dom/static/js/main.bd418a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91712b2.css",
+    "static/js/main.bd418a08.js"
+  ]
+}
